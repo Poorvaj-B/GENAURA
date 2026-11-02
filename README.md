@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DefectIQ – AI-Powered Defect Description Enhancer
 
 Hackathon-ready full-stack prototype for the TCS Technology Day problem statement:
@@ -93,3 +94,7 @@ Then click **Enhance with AI**.
 4. GitHub Issues integration
 5. CSV/Jira export
 6. Team quality analytics
+=======
+# GENAURA
+gen ai
+>>>>>>> 8ae74a2a28a63215f7265ae157cce18019ff84d3
